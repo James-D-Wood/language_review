@@ -5,7 +5,8 @@ The objective of this repository is to help drill syntax and language features f
 
 ## Contents
 Each language should have examples of the following:
-- Variable declaration
+- Simple data types and variable declaration
+- Composite data types
 - Control statements
 - Built in data structures
 - Function declaration (and caveats)
